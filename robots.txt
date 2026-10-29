@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gardpardal.github.io/sitemap.xml
